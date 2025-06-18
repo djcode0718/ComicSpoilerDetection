@@ -1,0 +1,22 @@
+✅ requirements.txt:
+
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+opencv-python
+ultralytics
+joblib
+
+
+| Library         | Why it's needed                                                        |
+| --------------- | ---------------------------------------------------------------------- |
+| `pandas`        | For handling CSV data                                                  |
+| `numpy`         | Used in model processing, matrix ops                                   |
+| `scikit-learn`  | For TF-IDF, encoding, and possibly metrics                             |
+| `xgboost`       | For the spoiler classification model                                   |
+| `matplotlib`    | For visualizing results (if used)                                      |
+| `opencv-python` | Required by YOLOv8 or any image processing                             |
+| `ultralytics`   | For using the YOLOv8 PyTorch model                                     |
+| `joblib`        | If you're using `joblib` to save/load models (alternative to `pickle`) |
