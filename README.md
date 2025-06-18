@@ -20,9 +20,8 @@ ComicSpoilerDetection/
 
 ## 🚀 Run on Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/ComicSpoilerDetection/blob/main/src/demo2.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/djcode0718/ComicSpoilerDetection/blob/main/notebooks/ComicSpoilerDetection.ipynb)
 
-> 📌 Replace `your-username` with your GitHub username in the link above.
 
 ---
 
@@ -49,6 +48,8 @@ ComicSpoilerDetection/
 
 3. Run the demo script:
    python src/demo2.py
+
+
 
 📂 Contents
 | Folder/File        | Description                                                           |
